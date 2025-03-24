@@ -1,6 +1,6 @@
 ----Creación de la Base de Datos-------------
-CREATE DATABASE atento_arg;
-USE atento_arg;
+CREATE DATABASE empresa1;
+USE empresa1;
 
 ----Creación de la Tabla de empleados-------
 CREATE TABLE empleados (
